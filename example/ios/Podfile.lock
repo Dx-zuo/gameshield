@@ -1,0 +1,41 @@
+PODS:
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
+  - Flutter (1.0.0)
+  - game_shield (0.0.1):
+    - Flutter
+  - integration_test (0.0.1):
+    - Flutter
+  - ReachabilitySwift (5.0.0)
+
+DEPENDENCIES:
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - Flutter (from `Flutter`)
+  - game_shield (from `.symlinks/plugins/game_shield/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+
+EXTERNAL SOURCES:
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  Flutter:
+    :path: Flutter
+  game_shield:
+    :path: ".symlinks/plugins/game_shield/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+
+SPEC CHECKSUMS:
+  connectivity_plus: 07c49e96d7fc92bc9920617b83238c4d178b446a
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  game_shield: 7e0c9038f06cf396e0dd7d0674831bd377040350
+  integration_test: 13825b8a9334a850581300559b8839134b124670
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+
+PODFILE CHECKSUM: 5a9907b4bcfb4a7ff4eb49f0a44b867c4196eafc
+
+COCOAPODS: 1.13.0
